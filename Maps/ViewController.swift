@@ -22,7 +22,7 @@ class ViewController: UIViewController, GMSAutocompleteViewControllerDelegate {
         
     }
  
-
+    // well
     
     var locationManager : CLLocationManager?
     var placesClient : GMSPlacesClient?
